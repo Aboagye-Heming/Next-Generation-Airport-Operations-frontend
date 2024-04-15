@@ -20,9 +20,8 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository
 
-2. Install dependencies:
-   npm install
+2. Install dependencies: npm install
    
-3. Start development server
-   ```npm run dev
+   
+3. Start development server: npm run dev
    
